@@ -1,2 +1,1 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+Repository for Chaojie Ji's academic research website.
